@@ -2,6 +2,10 @@
 ## Floppy Soldering Station v3.0
 The Floppy soldering station 3.0 is a DIY soldering station, easy to make and inexpensive. It is great for learning and having a good workshop tool at the same time.
 
+<img src="https://floppylab.altervista.org/wp-content/uploads/2024/06/P1250114-scaled.jpg" width="1000">
+
+<img src="https://floppylab.altervista.org/wp-content/uploads/2024/06/P1250117-scaled.jpg" width="1000">
+
 https://youtu.be/hezzL1TSIhk
 ## License
 
